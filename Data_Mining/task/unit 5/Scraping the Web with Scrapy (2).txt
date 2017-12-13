@@ -1,0 +1,22 @@
+Unit 5: Extending Scrapy
+
+This unit covers how to extend Scrapy capabilities, either via Item Pipelines or Middlewares.
+
+
+Topics
+
+	Scrapy Architecture
+	How to extend Scrapy
+	Item Pipelines
+	Spider Middlewares
+	Downloader Middlewares
+	Signals
+
+
+1. Pipeline
+
+	Build an item pipeline that stores the quotes from each author from http://quotes.toscrape.com in a separate json-lines file.
+
+	Albert Einstein → albert_einstein.jl
+	Jane Austen → jane_austen.jl
+	etc

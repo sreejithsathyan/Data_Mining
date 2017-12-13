@@ -1,0 +1,12 @@
+Unit 5: Scraping JavaScript based pages
+
+In this unit, we will see how to extract data from JS based pages.
+
+
+Topics
+
+	Scraping AJAX-based websites
+
+1. Infinite Scrolling (AJAX)
+
+	Build a spider to fetch all the posts from http://pythonhelp.wordpress.com

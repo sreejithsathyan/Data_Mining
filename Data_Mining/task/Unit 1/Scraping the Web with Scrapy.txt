@@ -1,0 +1,25 @@
+Unit 1: Scraping the Web with Scrapy
+
+This unit covers the basics of web scraping with a special focus on data extraction with Scrapy.
+
+
+Topics
+
+	The anatomy of a Scrapy Spider
+	Building a simple spider
+	Web scraping with Scrapy
+
+1. Reddit spider
+
+	Build a spider to extract title, link, username, user_url, score and time from each submission in the front page of reddit's /r/programming(http://reddit.com/r/programming) and /r/python(http://reddit.com/r/python).
+
+2. Books spider
+
+	Build a spider for books.toscrape.com(http://books.toscrape.com/) that extracts title, rating, price, stock and category from the URLs listed in following file (it can be stored locally alongside your spider).	
+
+
+References
+
+Scrapy Tutorial(https://doc.scrapy.org/en/latest/intro/tutorial.html)
+Parsel (the extraction library behind Scrapy) documentation(https://parsel.readthedocs.io/en/latest/usage.html#getting-started)
+What does the yield keyword do in python?(https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855)

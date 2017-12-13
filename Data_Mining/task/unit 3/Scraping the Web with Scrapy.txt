@@ -1,0 +1,21 @@
+Unit 3: Handling HTML Forms
+
+This unit covers how to post data to web servers, so that our spiders can perform searches and authenticate themselves in websites that require that.
+
+
+Topics
+
+	Handling HTML forms
+	Authenticating your spider via login forms
+	Dealing with validation tokens
+
+1. Hacker News spider
+
+	Build a Spider that authenticates into news.ycombinator.com and then extracts your own username and amount of points from the news page top (fake user/pass: scrape1123/scrape1123).
+
+
+
+2. Quotes filtering crawler
+
+	Build a spider that scrapes all the quotes from every author listed in quotes.toscrape.com/search.aspx.
+
